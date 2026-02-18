@@ -36,7 +36,7 @@
 
 🌱 Currently learning **MCP with Playwright **
 
-💬 Ask me about **Test Automation, Selenium, Java, ReadyAPI, RestAssured,Playwright, CI/CD**
+💬 Ask me about **Test Automation, Selenium, Java,Python, Requests Library, ReadyAPI, RestAssured, Playwright, CI/CD**
 
 
 
